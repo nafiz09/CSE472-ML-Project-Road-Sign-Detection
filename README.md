@@ -3,3 +3,4 @@ This project uses YOLOv8 for road sign detection, trained on a dataset of road s
 
 
 ![alt text](first.png)
+![alt text](second.png)
